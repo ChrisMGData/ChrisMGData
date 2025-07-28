@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chris Méndez</h1>
 <h3 align="center">Former hospitality professional and data enthusiast!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chirsmgdata&label=Profile%20views&color=0e75b6&style=flat" alt="chirsmgdata" /> </p>
+[![Chris Mendez profile views](https://u8views.com/api/v1/github/profiles/170142223/views/day-week-month-total-count.svg)](https://u8views.com/github/ChrisMGData)
+
 
 - 🌱 I’m currently learning **Data Analysis at Coursera**
 
