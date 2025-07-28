@@ -1,4 +1,3 @@
-theme=tokyonight
 <h1 align="center">Hi 👋, I'm Chris Méndez</h1>
 <h3 align="center">Former hospitality professional and data enthusiast!</h3>
 
